@@ -8,6 +8,8 @@
 
 前端源码在这里：https://github.com/oubingbing/school_wechat
 
+配置七牛图片一定要配置https
+
 扫码进入体验
 
 <img src="http://article.qiuhuiyi.cn/Fthvoe308wnXc0vy0IsrY9GKmzx3"  width="100px" />
